@@ -1,0 +1,7 @@
+{
+  "name": "SevaKart ",
+  "description": "A professional home services platform for Ghazipur, UP, featuring AI-powered search and image editing capabilities.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
